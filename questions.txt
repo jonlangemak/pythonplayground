@@ -1,0 +1,5 @@
+-Sublime the project construct, when to and not to use it.
+-String formatting, I get it, but is this just a time saver?
+	name = 'Jon'
+	print "Hi, my name is %s, what's yours?" % name
+	print "Hi, my name is",name,", what's yours?"
